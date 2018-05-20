@@ -1,2 +1,2 @@
-https://marcosdouglas.github.io
+http://marcosdouglas.github.io
 
